@@ -13,7 +13,12 @@ Aspiring Actuary | BCOM (HONS) EAFM | Learning SQL, R, Excel for IFoA
 - **Files:** [View Project](./01-insurance-claims/)
 - **Skills:** Pricing, Reserving, Risk Buckets, Fixed ERROR 3948 & ONLY_FULL_GROUP_BY
 
-### 02 - Coming next: Mortality Analysis in R
+### 02 - Chain Ladder Reserving [DONE]
+- Tool: Excel (10x10 Triangle, 2015-2024)
+- My Innovation: Calculated 9 development factors, CDF 2.69, IBNR Rs 19.95L
+- Key Finding: 2024 needs Rs 8.36L reserve | Total IBNR 1995.12 | Link-stable factors 1.63 to 1.002
+- Files: View Project 02
+- Skills: Reserving, CM2, Chain Ladder, IBNR, Development Factors
 
 ## Tech Stack
 MySQL, R, Excel, Actuarial Concepts (CS1, CM1 ,CS2 , CM2)
