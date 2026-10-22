@@ -37,8 +37,8 @@ summary(m2_glm) # Screenshot 02 - MAIN RESULT
 
 
 # 4. Interpretation - Your Differentiator
-# Coef of smokerYes ~ 1.2 => exp(1.2) = 3.32x 
-# Your SQL found 3.8x, GLM says 3.32x after adjusting for age/bmi
+# Coef of smokerYes ~ 1.493434 => exp(1.49) = 4.45x 
+# SQL found 3.8x (raw avg), GLM says 4.45x after adjusting for age/bmi
 cat("Smoker Multiplier (GLM):", exp(coef(m2_glm)["smokeryes"]), "\n")
 
 
